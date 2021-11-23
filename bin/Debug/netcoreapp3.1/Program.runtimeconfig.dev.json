@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sandiv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sandiv\\.nuget\\packages"
+    ]
+  }
+}
